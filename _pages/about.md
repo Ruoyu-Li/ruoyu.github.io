@@ -15,8 +15,14 @@ This is the homepage of Ruoyu Li (Roy, 李若愚). I am currently a fifth-year P
 ## Research Interests
 
 * **AI for Network Security:** encrypted traffic analysis, intrusion/anomaly detection, device fingerprinting
-* **IoT Security:** IoT botnet and DDoS, smart home automation security, IoT privacy sniffing
-* **Programmable Networking:** P4 switch, eBPF/XDP
+* **IoT Security:** smart home security, IoT botnet, home automation, privacy sniffing
+* **Programmable Networking:** programmable data plane, P4 switch, in-network intelligence
 
 ## News
 * 09/2023: Our paper about rule extraction is accepted by NeurIPS 2023!
+* 07/2023: Our paper Dryad is accepted by ICNP 2023!
+* 07/2023: Our paper SmartUDI is accepted by Ubicomp/IMWUT 2023!
+* 06/2023: Our survey paper on DDoS defense is accepted by Computer Networks!
+* 05/2023: Our paper HorusEye is accepted by USENIX Security 2023!
+* 01/2023: Our paper IoTBeholder is accepted by Ubicomp/IMWUT 2023!
+* 07/2022: Our paper IoTEnsemble is accepted by ESORICS 2022!
