@@ -7,21 +7,21 @@ author_profile: true
 
 ## Conference Papers
 
-* [Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction]<br>
+* Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction (To appear)<br>
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, and Yong Jiang<br>
-*In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS '23) (To appear)*
+*In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS '23)*
 
 * [IoTEnsemble: Detection of Botnet Attacks on Internet of Things](https://link.springer.com/chapter/10.1007/978-3-031-17146-8_28)<br>
 **Ruoyu Li**, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, and Yong Jiang<br>
 *In Proceedings of the 27th European Symposium on Research in Computer Security (ESORICS '22, acceptance rate: 18.5%)*
 
-* [Dryad: Deploying Adaptive Trees on Programmable Switches for Networking Classification]<br>
+* Dryad: Deploying Adaptive Trees on Programmable Switches for Networking Classification (To appear)<br>
 Guorui Xie, Qing Li, Jiaye Lin, Gianni Antichi, Dan Zhao, Zhenhui Yuan, **Ruoyu Li**, and Yong Jiang<br>
-*In Proceedings of the 31st IEEE International Conference on Network Protocols (ICNP '23) (To appear)*
+*In Proceedings of the 31st IEEE International Conference on Network Protocols (ICNP '23)*
 
-* [I Know Your Intent: Graph-enhanced Intent-aware User Device Interaction Prediction via Contrastive Learning]<br>
+* I Know Your Intent: Graph-enhanced Intent-aware User Device Interaction Prediction via Contrastive Learning (To appear)<br>
 Jingyu Xiao, Qingsong Zou, Qing Li, Dan Zhao, Kang Li, Zixuan Weng, **Ruoyu Li**, and Yong Jiang<br>
-*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT '23) (To appear)*
+*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT '23)*
 
 * [HorusEye: Realtime IoT Malicious Traffic Detection Framework with Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao)<br>
 Yutao Dong, Qing Li, Kaidong Wu, **Ruoyu Li**, Dan Zhao, Gareth Tyson, Junkun Peng, Yong Jiang, Shutao Xia, and Mingwei Xu<br>
