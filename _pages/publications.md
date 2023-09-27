@@ -45,7 +45,7 @@ Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
 **Ruoyu Li**, Qing Li, Jianer Zhou, and Yong Jiang<br>
 *In IEEE Internet of Things Journal, 2021 (JCR Q1, IF: 10.238)*
 
-* [A comprehensive survey on DDoS defense systems: New trends and challenges](https://www.sciencedirect.com/science/article/pii/S1389128623003407)<br>
+* [A Comprehensive Survey on DDoS Defense Systems: New Trends and Challenges](https://www.sciencedirect.com/science/article/pii/S1389128623003407)<br>
 Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, and Yong Jiang<br>
 *In Computer Networks, 2023 (JCR Q1, IF: 5.6)*
 
