@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Li, Ruoyu (李若愚)"
-  avatar           : "images/avatar.jpeg"
+  avatar           : "avatar.jpeg"
   bio              : "Ph.D. candidate, Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
