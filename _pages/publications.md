@@ -37,7 +37,7 @@ Aman Singh, Shashank Murali, Lalka Rieger, **Ruoyu Li**, Stefan Hommes, Radu Sta
 
 * [SmartRetro: Blockchain-Based Incentives for Distributed IoT Retrospective Detection](https://ieeexplore.ieee.org/document/8567575)<br>
 Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
-*In Proceedings of the 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS' 18)*
+*In Proceedings of the 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS '18)*
 
 ## Journal Papers
 
