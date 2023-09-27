@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruoyu Li's Homepage"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
