@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Selected Publications
+## Conference Papers
 
-* Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction<br>
+* [Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction]<br>
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, and Yong Jiang<br>
 *In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS '23) (To appear)*
 
@@ -15,21 +15,13 @@ author_profile: true
 **Ruoyu Li**, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, and Yong Jiang<br>
 *In Proceedings of the 27th European Symposium on Research in Computer Security (ESORICS '22, acceptance rate: 18.5%)*
 
-* [ADRIoT: An Edge-assisted Anomaly Detection Framework against IoT-based Network Attacks](https://ieeexplore.ieee.org/document/9585043/)<br>
-**Ruoyu Li**, Qing Li, Jianer Zhou, and Yong Jiang<br>
-*In IEEE Internet of Things Journal, 2021 (JCR Q1, IF: 10.238)*
-
-* Dryad: Deploying Adaptive Trees on Programmable Switches for Networking Classification<br>
+* [Dryad: Deploying Adaptive Trees on Programmable Switches for Networking Classification]<br>
 Guorui Xie, Qing Li, Jiaye Lin, Gianni Antichi, Dan Zhao, Zhenhui Yuan, **Ruoyu Li**, and Yong Jiang<br>
 *In Proceedings of the 31st IEEE International Conference on Network Protocols (ICNP '23) (To appear)*
 
-* I Know Your Intent: Graph-enhanced Intent-aware User Device Interaction Prediction via Contrastive Learning<br>
+* [I Know Your Intent: Graph-enhanced Intent-aware User Device Interaction Prediction via Contrastive Learning]<br>
 Jingyu Xiao, Qingsong Zou, Qing Li, Dan Zhao, Kang Li, Zixuan Weng, **Ruoyu Li**, and Yong Jiang<br>
 *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT '23) (To appear)*
-
-* [A comprehensive survey on DDoS defense systems: New trends and challenges](https://www.sciencedirect.com/science/article/pii/S1389128623003407)<br>
-Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, and Yong Jiang<br>
-*In Computer Networks, 2023 (JCR Q1, IF: 5.6)*
 
 * [HorusEye: Realtime IoT Malicious Traffic Detection Framework with Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao)<br>
 Yutao Dong, Qing Li, Kaidong Wu, **Ruoyu Li**, Dan Zhao, Gareth Tyson, Junkun Peng, Yong Jiang, Shutao Xia, and Mingwei Xu<br>
@@ -47,7 +39,17 @@ Aman Singh, Shashank Murali, Lalka Rieger, **Ruoyu Li**, Stefan Hommes, Radu Sta
 Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
 *In Proceedings of the 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS' 18)*
 
-## Selected Ongoing Works
+## Journal Papers
+
+* [ADRIoT: An Edge-assisted Anomaly Detection Framework against IoT-based Network Attacks](https://ieeexplore.ieee.org/document/9585043/)<br>
+**Ruoyu Li**, Qing Li, Jianer Zhou, and Yong Jiang<br>
+*In IEEE Internet of Things Journal, 2021 (JCR Q1, IF: 10.238)*
+
+* [A comprehensive survey on DDoS defense systems: New trends and challenges](https://www.sciencedirect.com/science/article/pii/S1389128623003407)<br>
+Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, and Yong Jiang<br>
+*In Computer Networks, 2023 (JCR Q1, IF: 5.6)*
+
+## Ongoing Works
 * IoT device fingerprinting, submitted to ToN (first author)
 * IoT synthetic traffic generation, submitted to TMC (first author)
 * In-network anomaly detection, submitted to INFOCOM (first author)
