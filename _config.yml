@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruoyu's homepage"
+title                    : "Ruoyu Li"
 title_separator          : "-"
-name                     : &name "Ruoyu"
+name                     : &name "Ruoyu Li"
 description              : &description "personal website"
 url                      : https://ruoyu-li.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
