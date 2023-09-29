@@ -19,7 +19,7 @@ author_profile: true
 Guorui Xie, Qing Li, Jiaye Lin, Gianni Antichi, Dan Zhao, Zhenhui Yuan, **Ruoyu Li**, and Yong Jiang<br>
 *In Proceedings of the 31st IEEE International Conference on Network Protocols (ICNP '23)*
 
-* I Know Your Intent: Graph-enhanced Intent-aware User Device Interaction Prediction via Contrastive Learning (To appear)<br>
+* [I Know Your Intent: Graph-enhanced Intent-aware User Device Interaction Prediction via Contrastive Learning](https://dl.acm.org/doi/10.1145/3610906)<br>
 Jingyu Xiao, Qingsong Zou, Qing Li, Dan Zhao, Kang Li, Zixuan Weng, **Ruoyu Li**, and Yong Jiang<br>
 *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT '23)*
 
