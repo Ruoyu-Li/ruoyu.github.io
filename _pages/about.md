@@ -14,7 +14,7 @@ This is the homepage of Ruoyu Li (Roy, 李若愚). I am currently a fifth-year P
 
 ## Research Interests
 
-* **AI for Network Security:** encrypted traffic analysis, intrusion/anomaly detection, device fingerprinting
+* **Network Traffic Security:** encrypted traffic analysis, intrusion/anomaly detection
 * **IoT Security:** smart home security, IoT botnet, home automation, privacy sniffing
 * **Programmable Networking:** programmable data plane, P4 switch, in-network intelligence
 
