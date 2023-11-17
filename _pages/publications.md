@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Papers
 
-* Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction (To appear)<br>
+* [Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction](https://nips.cc/virtual/2023/poster/69885)<br>
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, and Yong Jiang<br>
 *In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS '23)*
 
@@ -58,3 +58,4 @@ Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, an
 * Regular expression enhancement, submitted to NSDI (co-author)
 * Malicious traffic detection, submitted to USENIX Security (co-author)
 * Defense against fingerprinting, submitted to USENIX Security (co-author)
+* BGP anomaly detection, submitted to TDSC (co-author)
