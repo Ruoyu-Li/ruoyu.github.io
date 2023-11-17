@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Reviewer
-TDSC, TNSE, WASA, ICME, etc.
+TDSC, IoT-J, TNSE, WASA, ICME, etc.
 
 ## Memberships
 IEEE Graduate Student Member
