@@ -7,6 +7,10 @@ author_profile: true
 
 ## Conference Papers
 
+* [Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction]<br>
+**Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, Xi Xiao, and Yong Jiang<br>
+*In Proceedings of the 43th IEEE Conference on Computer Communications (INFOCOM '24)*
+
 * [Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction](https://nips.cc/virtual/2023/poster/69885)<br>
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, and Yong Jiang<br>
 *In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS '23)*
