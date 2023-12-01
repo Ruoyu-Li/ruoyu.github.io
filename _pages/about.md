@@ -19,6 +19,7 @@ This is the homepage of Ruoyu Li (Roy, 李若愚). I am currently a fifth-year P
 * **Programmable Networking:** programmable data plane, P4 switch, in-network intelligence
 
 ## News
+* 12/2023: Our paper Genos is accepted by INFOCOM 2024!
 * 09/2023: Our paper about rule extraction is accepted by NeurIPS 2023!
 * 07/2023: Our paper Dryad is accepted by ICNP 2023!
 * 07/2023: Our paper SmartUDI is accepted by Ubicomp/IMWUT 2023!
