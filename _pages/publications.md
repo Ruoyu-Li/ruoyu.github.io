@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Papers
 
-* [Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction]<br>
+* Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction (To appear)<br>
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, Xi Xiao, and Yong Jiang<br>
 *In Proceedings of the 43th IEEE Conference on Computer Communications (INFOCOM '24)*
 
