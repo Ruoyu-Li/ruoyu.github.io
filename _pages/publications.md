@@ -11,7 +11,7 @@ author_profile: true
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, Xi Xiao, and Yong Jiang<br>
 *In Proceedings of the 43th IEEE Conference on Computer Communications (INFOCOM '24)*
 
-* [Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction](https://nips.cc/virtual/2023/poster/69885)<br>
+* [Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction](https://openreview.net/forum?id=zfCNwRQ569)<br>
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, and Yong Jiang<br>
 *In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS '23)*
 
@@ -19,7 +19,7 @@ author_profile: true
 **Ruoyu Li**, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, and Yong Jiang<br>
 *In Proceedings of the 27th European Symposium on Research in Computer Security (ESORICS '22, acceptance rate: 18.5%)*
 
-* Dryad: Deploying Adaptive Trees on Programmable Switches for Networking Classification (To appear)<br>
+* [Dryad: Deploying Adaptive Trees on Programmable Switches for Networking Classification](https://www.computer.org/csdl/proceedings-article/icnp/2023/10355629/1T3dD5bP9BK)<br>
 Guorui Xie, Qing Li, Jiaye Lin, Gianni Antichi, Dan Zhao, Zhenhui Yuan, **Ruoyu Li**, and Yong Jiang<br>
 *In Proceedings of the 31st IEEE International Conference on Network Protocols (ICNP '23)*
 
@@ -54,12 +54,11 @@ Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, an
 *In Computer Networks, 2023 (JCR Q1, IF: 5.6)*
 
 ## Ongoing Works
-* IoT device fingerprinting, submitted to ToN (first author)
-* IoT synthetic traffic generation, submitted to TMC (first author)
-* In-network anomaly detection, submitted to INFOCOM (first author)
+* IoT device fingerprinting, under revision by ToN (first author)
+* IoT synthetic traffic generation, under revision by TMC (first author)
 * Smart home anomaly detection, submitted to TIFS (first author)
 * Malicious traffic detection, submitted to TDSC (co-author)
 * Regular expression enhancement, submitted to NSDI (co-author)
 * Malicious traffic detection, submitted to USENIX Security (co-author)
-* Defense against fingerprinting, submitted to USENIX Security (co-author)
+* Defense against fingerprinting, submitted to Oakland (co-author)
 * BGP anomaly detection, submitted to TDSC (co-author)
