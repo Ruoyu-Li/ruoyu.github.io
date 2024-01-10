@@ -11,7 +11,7 @@ redirect_from:
 * Second Prize Scholarship, Tsinghua University, 2023
 * Leaders of Tomorrow Scholarship, TBSI, 2020-2024
 * Outstanding Graduate, HUST, 2017
-* Excellence Scholarship, HUST,2016
+* Excellence Scholarship, HUST, 2016
 * Second Prize, National College Student Information Security Competition, Ministry of Education of PRC, 2015
 * Social Welfare Scholarship, HUST, 2014
 
