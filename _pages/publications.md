@@ -19,20 +19,20 @@ author_profile: true
 **Ruoyu Li**, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, and Yong Jiang<br>
 *In Proceedings of the 27th European Symposium on Research in Computer Security (ESORICS '22, acceptance rate: 18.5%)*
 
-* [Dryad: Deploying Adaptive Trees on Programmable Switches for Networking Classification](https://www.computer.org/csdl/proceedings-article/icnp/2023/10355629/1T3dD5bP9BK)<br>
-Guorui Xie, Qing Li, Jiaye Lin, Gianni Antichi, Dan Zhao, Zhenhui Yuan, **Ruoyu Li**, and Yong Jiang<br>
-*In Proceedings of the 31st IEEE International Conference on Network Protocols (ICNP '23)*
-
-* [I Know Your Intent: Graph-enhanced Intent-aware User Device Interaction Prediction via Contrastive Learning](https://dl.acm.org/doi/10.1145/3610906)<br>
-Jingyu Xiao, Qingsong Zou, Qing Li, Dan Zhao, Kang Li, Zixuan Weng, **Ruoyu Li**, and Yong Jiang<br>
-*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT '23)*
-
 * [HorusEye: Realtime IoT Malicious Traffic Detection Framework with Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao)<br>
 Yutao Dong, Qing Li, Kaidong Wu, **Ruoyu Li**, Dan Zhao, Gareth Tyson, Junkun Peng, Yong Jiang, Shutao Xia, and Mingwei Xu<br>
 *In Proceedings of the 32nd USENIX Security Symposium (USENIX Security '23, "Big 4")*
 
 * [IoTBeholder: A Privacy Snooping Attack on User Habitual Behaviors from Smart Home Wi-Fi Traffic](https://dl.acm.org/doi/abs/10.1145/3580890)<br>
 Qingsong Zou, Qing Li, **Ruoyu Li**, Yucheng Huang, Gareth Tyson, Jingyu Xiao, and Yong Jiang<br>
+*In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT '23)*
+
+* [Dryad: Deploying Adaptive Trees on Programmable Switches for Networking Classification](https://www.computer.org/csdl/proceedings-article/icnp/2023/10355629/1T3dD5bP9BK)<br>
+Guorui Xie, Qing Li, Jiaye Lin, Gianni Antichi, Dan Zhao, Zhenhui Yuan, **Ruoyu Li**, and Yong Jiang<br>
+*In Proceedings of the 31st IEEE International Conference on Network Protocols (ICNP '23)*
+
+* [I Know Your Intent: Graph-enhanced Intent-aware User Device Interaction Prediction via Contrastive Learning](https://dl.acm.org/doi/10.1145/3610906)<br>
+Jingyu Xiao, Qingsong Zou, Qing Li, Dan Zhao, Kang Li, Zixuan Weng, **Ruoyu Li**, and Yong Jiang<br>
 *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT '23)*
 
 * [HANZO: Collaborative Network Defense for Connected Things](https://ieeexplore.ieee.org/document/8567639)<br>
