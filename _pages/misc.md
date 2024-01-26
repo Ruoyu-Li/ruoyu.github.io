@@ -19,12 +19,14 @@ redirect_from:
 
 ### Reviewer
 
-IEEE Transactions on Information Forensics and Security (TIFS)
-IEEE Transactions on Dependable and Secure Computing (TDSC)
-IEEE Internet of Things Journal (IoT-J)
+* IEEE Transactions on Information Forensics and Security (TIFS)
+
+* IEEE Transactions on Dependable and Secure Computing (TDSC)
+
+* IEEE Internet of Things Journal (IoT-J)
 
 ### Membership
-IEEE Graduate Student Member
+* IEEE Graduate Student Member
 
 ## Teaching
 
