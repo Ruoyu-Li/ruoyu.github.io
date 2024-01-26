@@ -18,9 +18,12 @@ redirect_from:
 ## Services
 
 ### Reviewer
-TDSC, IoT-J, TNSE, WASA, ICME, etc.
 
-### Memberships
+IEEE Transactions on Information Forensics and Security (TIFS)
+IEEE Transactions on Dependable and Secure Computing (TDSC)
+IEEE Internet of Things Journal (IoT-J)
+
+### Membership
 IEEE Graduate Student Member
 
 ## Teaching
