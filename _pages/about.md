@@ -16,7 +16,7 @@ I am on job market now and seeking for **postdoc/AP** positions! Feel free to co
 
 ## Research Interests
 
-* **Network Traffic Security:** encrypted traffic analysis, intrusion/anomaly detection
+* **Network Security:** encrypted traffic analysis, intrusion/anomaly detection
 * **IoT Security:** smart home security, IoT botnet, home automation, privacy sniffing
 * **Programmable Networking:** programmable data plane, in-network intelligence
 * **Explainable AI:** global/local explanation, rule extraction
