@@ -31,4 +31,4 @@ I am on job market now and seeking for **postdoc/AP** positions! Feel free to co
 * 01/2023: Our paper IoTBeholder is accepted by Ubicomp/IMWUT 2023!
 * 07/2022: Our paper IoTEnsemble is accepted by ESORICS 2022!
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=w5p4SHR25MTL0_QeAOo2IK7S7_prSqA-IwIPWFhyiyI&co=a8d5f4'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=n&d=w5p4SHR25MTL0_QeAOo2IK7S7_prSqA-IwIPWFhyiyI&co=a8d5f4'></script>
