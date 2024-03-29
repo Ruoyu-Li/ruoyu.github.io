@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Papers
 
-* Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction (To appear)<br>
+* [Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction](https://arxiv.org/abs/2403.19248)<br>
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, Xi Xiao, and Yong Jiang<br>
 *In Proceedings of the 43th IEEE Conference on Computer Communications (INFOCOM '24)*
 
@@ -21,7 +21,7 @@ author_profile: true
 
 * [HorusEye: Realtime IoT Malicious Traffic Detection Framework with Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao)<br>
 Yutao Dong, Qing Li, Kaidong Wu, **Ruoyu Li**, Dan Zhao, Gareth Tyson, Junkun Peng, Yong Jiang, Shutao Xia, and Mingwei Xu<br>
-*In Proceedings of the 32nd USENIX Security Symposium (USENIX Security '23, "Big 4")*
+*In Proceedings of the 32nd USENIX Security Symposium (USENIX Security '23)*
 
 * [IoTBeholder: A Privacy Snooping Attack on User Habitual Behaviors from Smart Home Wi-Fi Traffic](https://dl.acm.org/doi/abs/10.1145/3580890)<br>
 Qingsong Zou, Qing Li, **Ruoyu Li**, Yucheng Huang, Gareth Tyson, Jingyu Xiao, and Yong Jiang<br>
@@ -53,12 +53,14 @@ Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
 Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, and Yong Jiang<br>
 *In Computer Networks, 2023 (JCR Q1, IF: 5.6)*
 
-## Ongoing Works
+## Papers under revision/review
+
 * IoT device fingerprinting, under revision by ToN (first author)
 * IoT synthetic traffic generation, under revision by TMC (first author)
-* Smart home anomaly detection, submitted to TIFS (first author)
-* Malicious traffic detection, submitted to TDSC (co-author)
-* Regular expression enhancement, submitted to NSDI (co-author)
-* Malicious traffic detection, submitted to USENIX Security (co-author)
-* Defense against fingerprinting, submitted to Oakland (co-author)
+* Smart home anomaly detection, under revision by TIFS (first author)
+* Malicious traffic detection, under revision TDSC (co-author)
+* Defense against fingerprinting, submitted to CCS '24 (co-author)
+* Regular expression enhancement, submitted to CCS '24 (co-author)
+* Malicious traffic detection, submitted to KDD '24 (co-author)
+* Smart home anomaly detection, submitted to KDD '24 (co-author)
 * BGP anomaly detection, submitted to TDSC (co-author)
