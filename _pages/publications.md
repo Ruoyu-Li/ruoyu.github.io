@@ -11,7 +11,7 @@ author_profile: true
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, Xi Xiao, and Yong Jiang<br>
 *In Proceedings of the 43th IEEE Conference on Computer Communications (INFOCOM '24)*
 
-* [Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction](https://openreview.net/forum?id=zfCNwRQ569)<br>
+* [Interpreting Unsupervised Anomaly Detection in Security via Rule Extraction](https://papers.nips.cc/paper_files/paper/2023/hash/c43b987f23fd5ea840df2b2be426315c-Abstract-Conference.html)<br>
 **Ruoyu Li**, Qing Li, Yu Zhang, Dan Zhao, and Yong Jiang<br>
 *In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS '23)*
 
