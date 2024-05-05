@@ -22,7 +22,7 @@ I am on job market now and seeking for **postdoc/AP** positions! Feel free to co
 * **Explainable AI:** global/local explanation, rule extraction
 
 ## News
-* 05/2024: Our paper DeviceRadar is accepted by IEEE/ACM Trasactions on Networking!
+* 05/2024: Our paper DeviceRadar is accepted by IEEE/ACM Transactions on Networking!
 * 12/2023: Our paper Genos is accepted by INFOCOM 2024!
 * 09/2023: Our paper about rule extraction is accepted by NeurIPS 2023!
 * 07/2023: Our paper Dryad is accepted by ICNP 2023!
