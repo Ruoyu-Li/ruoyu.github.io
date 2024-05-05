@@ -44,18 +44,20 @@ Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
 *In Proceedings of the 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS '18)*
 
 ## Journal Papers
+* [DeviceRadar: Online IoT Device Fingerprinting in ISPs using Programmable Switches](https://arxiv.org/abs/2404.12738)<br>
+**Ruoyu Li**, Qing Li, Tao Lin, Qingsong Zou, Dan Zhao, Yucheng Huang, Gareth Tyson, Guorui Xie, and Yong Jiang<br>
+*In IEEE/ACM Transactions on Networking, 2024*
 
 * [ADRIoT: An Edge-assisted Anomaly Detection Framework against IoT-based Network Attacks](https://ieeexplore.ieee.org/document/9585043/)<br>
 **Ruoyu Li**, Qing Li, Jianer Zhou, and Yong Jiang<br>
-*In IEEE Internet of Things Journal, 2021 (JCR Q1, IF: 10.238)*
+*In IEEE Internet of Things Journal, 2021*
 
 * [A Comprehensive Survey on DDoS Defense Systems: New Trends and Challenges](https://www.sciencedirect.com/science/article/pii/S1389128623003407)<br>
 Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, and Yong Jiang<br>
-*In Computer Networks, 2023 (JCR Q1, IF: 5.6)*
+*In Computer Networks, 2023*
 
 ## Papers under revision/review
 
-* IoT device fingerprinting, under revision by ToN (first author)
 * IoT synthetic traffic generation, under revision by TMC (first author)
 * Smart home anomaly detection, under revision by TIFS (first author)
 * Malicious traffic detection, under revision TDSC (co-author)
