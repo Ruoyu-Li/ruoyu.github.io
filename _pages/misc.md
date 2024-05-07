@@ -8,7 +8,8 @@ redirect_from:
 
 ## Award
 
-* Second Prize Scholarship, Tsinghua University, 2023
+* Student Travel Grant ($1000), IEEE ComSoc, INFOCOM 2024
+* Excellence Scholarship, Tsinghua University, 2023
 * Leaders of Tomorrow Scholarship, TBSI, 2021-2023
 * Outstanding Graduate, HUST, 2017
 * Excellence Scholarship, HUST, 2016
