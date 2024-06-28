@@ -61,7 +61,7 @@ Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
 *In IEEE Internet of Things Journal, 2021*
 
 * [Intelligent In-Network Attack Detection on Programmable Switches with Soterv2](https://ieeexplore.ieee.org/document/10534826)<br>
-Guorui Xie, Qing Li*, Chupeng Cui, **Ruoyu Li**, Lianbo Ma, Zhuyun Qi, and Yong Jiang<br>
+Guorui Xie, Qing Li, Chupeng Cui, **Ruoyu Li**, Lianbo Ma, Zhuyun Qi, and Yong Jiang<br>
 *In IEEE Transactions on Dependable and Secure Computing, 2024*
 
 * [A Comprehensive Survey on DDoS Defense Systems: New Trends and Challenges](https://www.sciencedirect.com/science/article/pii/S1389128623003407)<br>
