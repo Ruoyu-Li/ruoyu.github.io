@@ -19,6 +19,10 @@ author_profile: true
 **Ruoyu Li**, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, and Yong Jiang<br>
 *In Proceedings of the 27th European Symposium on Research in Computer Security (ESORICS '22, acceptance rate: 18.5%)*
 
+* [Make Your Home Safe: Time-aware Unsupervised User Behavior Anomaly Detection in Smart Homes via Loss-guided Mask](https://arxiv.org/abs/2406.10928)<br>
+Jingyu Xiao, Zhiyao Xu, Qingsong Zou, Qing Li, Dan Zhao, Dong Fang, **Ruoyu Li**, Wenxin Tang, Kang Li, Xudong Zuo, Penghui Hu, Yong Jiang, Zixuan Weng, and Michael R.Lyv<br>
+*In Proceedings of the 30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '24)*
+
 * [HorusEye: Realtime IoT Malicious Traffic Detection Framework with Programmable Switches](https://www.usenix.org/conference/usenixsecurity23/presentation/dong-yutao)<br>
 Yutao Dong, Qing Li, Kaidong Wu, **Ruoyu Li**, Dan Zhao, Gareth Tyson, Junkun Peng, Yong Jiang, Shutao Xia, and Mingwei Xu<br>
 *In Proceedings of the 32nd USENIX Security Symposium (USENIX Security '23)*
@@ -48,9 +52,17 @@ Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
 **Ruoyu Li**, Qing Li, Tao Lin, Qingsong Zou, Dan Zhao, Yucheng Huang, Gareth Tyson, Guorui Xie, and Yong Jiang<br>
 *In IEEE/ACM Transactions on Networking, 2024*
 
+* SeIoT: Smart Home Network Anomaly Detection via Knowledge Graph (to appear)<br>
+**Ruoyu Li**, Qing Li, Yucheng Huang, Qingsong Zou, Dan Zhao, Zhengxin Zhang, Yong Jiang, Fa Zhu, and Athanasios V. Vasilakos<br>
+*In IEEE Transactions on Information Forensics and Security, 2024*
+
 * [ADRIoT: An Edge-assisted Anomaly Detection Framework against IoT-based Network Attacks](https://ieeexplore.ieee.org/document/9585043/)<br>
 **Ruoyu Li**, Qing Li, Jianer Zhou, and Yong Jiang<br>
 *In IEEE Internet of Things Journal, 2021*
+
+* [Intelligent In-Network Attack Detection on Programmable Switches with Soterv2](https://ieeexplore.ieee.org/document/10534826)<br>
+Guorui Xie, Qing Li*, Chupeng Cui, **Ruoyu Li**, Lianbo Ma, Zhuyun Qi, and Yong Jiang<br>
+*In IEEE Transactions on Dependable and Secure Computing, 2024*
 
 * [A Comprehensive Survey on DDoS Defense Systems: New Trends and Challenges](https://www.sciencedirect.com/science/article/pii/S1389128623003407)<br>
 Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, and Yong Jiang<br>
@@ -59,10 +71,6 @@ Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, an
 ## Papers under revision/review
 
 * IoT synthetic traffic generation, under revision by TMC (first author)
-* Smart home anomaly detection, under revision by TIFS (first author)
-* Malicious traffic detection, under revision TDSC (co-author)
 * Defense against fingerprinting, submitted to CCS '24 (co-author)
 * Regular expression enhancement, submitted to CCS '24 (co-author)
-* Malicious traffic detection, submitted to KDD '24 (co-author)
-* Smart home anomaly detection, submitted to KDD '24 (co-author)
 * BGP anomaly detection, submitted to TDSC (co-author)
