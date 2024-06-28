@@ -22,8 +22,11 @@ I am on job market now and seeking for **postdoc/AP** positions! Feel free to co
 * **Explainable AI:** global/local explanation, rule extraction
 
 ## News
+* 06/2024: Our paper SeIoT is accepted by IEEE TIFS!
+* 05/2024: Our paper Soterv2 is accepted by IEEE TDSC!
+* 05/2024: Our paper SmartGuard is accepted by KDD 2024!
 * 05/2024: I was awarded a Student Travel Grant to attend INFOCOM 2024!
-* 05/2024: Our paper DeviceRadar is accepted by IEEE/ACM Transactions on Networking!
+* 05/2024: Our paper DeviceRadar is accepted by IEEE/ACM ToN!
 * 12/2023: Our paper Genos is accepted by INFOCOM 2024!
 * 09/2023: Our paper about rule extraction is accepted by NeurIPS 2023!
 * 07/2023: Our paper Dryad is accepted by ICNP 2023!
