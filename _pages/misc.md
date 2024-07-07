@@ -20,11 +20,11 @@ redirect_from:
 
 ### Reviewer
 
+* Annual Conference on Neural Information Processing Systems (NeurIPS `24)
 * IEEE Transactions on Information Forensics and Security (TIFS)
-
 * IEEE Transactions on Dependable and Secure Computing (TDSC)
-
 * IEEE Internet of Things Journal (IoT-J)
+* Computer Networks
 
 ### Membership
 * IEEE Graduate Student Member
