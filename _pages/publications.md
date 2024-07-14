@@ -48,9 +48,13 @@ Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
 *In Proceedings of the 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS '18)*
 
 ## Journal Papers
-* [DeviceRadar: Online IoT Device Fingerprinting in ISPs using Programmable Switches](https://arxiv.org/abs/2404.12738)<br>
+* [DeviceRadar: Online IoT Device Fingerprinting in ISPs using Programmable Switches](https://ieeexplore.ieee.org/document/10533453)<br>
 **Ruoyu Li**, Qing Li, Tao Lin, Qingsong Zou, Dan Zhao, Yucheng Huang, Gareth Tyson, Guorui Xie, and Yong Jiang<br>
 *In IEEE/ACM Transactions on Networking, 2024*
+
+* [IoTGemini: Modeling IoT Network Behaviors for Synthetic Traffic Generation](https://ieeexplore.ieee.org/document/10595132)<br>
+**Ruoyu Li**, Qing Li, Qingsong Zou, Dan Zhao, Xiangyi Zeng, Yucheng Huang, Yong Jiang, Feng Lyu, Gaston Ormazabal, Aman Singh, and Henning Schulzrinne<br>
+*In IEEE Transactions on Mobile Computing, 2024*
 
 * SeIoT: Smart Home Network Anomaly Detection via Knowledge Graph (to appear)<br>
 **Ruoyu Li**, Qing Li, Yucheng Huang, Qingsong Zou, Dan Zhao, Zhengxin Zhang, Yong Jiang, Fa Zhu, and Athanasios V. Vasilakos<br>
