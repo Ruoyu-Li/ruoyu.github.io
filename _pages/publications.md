@@ -56,7 +56,7 @@ Bo Wu, Qi Li, Ke Xu, **Ruoyu Li**, and Zhuotao Liu<br>
 **Ruoyu Li**, Qing Li, Qingsong Zou, Dan Zhao, Xiangyi Zeng, Yucheng Huang, Yong Jiang, Feng Lyu, Gaston Ormazabal, Aman Singh, and Henning Schulzrinne<br>
 *In IEEE Transactions on Mobile Computing, 2024*
 
-* SeIoT: Smart Home Network Anomaly Detection via Knowledge Graph (to appear)<br>
+* [SeIoT: Smart Home Network Anomaly Detection via Knowledge Graph](https://ieeexplore.ieee.org/document/10599285)<br>
 **Ruoyu Li**, Qing Li, Yucheng Huang, Qingsong Zou, Dan Zhao, Zhengxin Zhang, Yong Jiang, Fa Zhu, and Athanasios V. Vasilakos<br>
 *In IEEE Transactions on Information Forensics and Security, 2024*
 
