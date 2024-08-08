@@ -22,6 +22,7 @@ I am on job market now and seeking for **postdoc/AP** positions! Feel free to co
 * **Explainable AI:** global/local explanation, rule extraction
 
 ## News
+* 07/2024: Our paper Proteus is accepted by ICNP 2024!
 * 07/2024: Our paper IoTGemini is accepted by IEEE TMC!
 * 06/2024: Our paper SeIoT is accepted by IEEE TIFS!
 * 05/2024: Our paper Soterv2 is accepted by IEEE TDSC!
