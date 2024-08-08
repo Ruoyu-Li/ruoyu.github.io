@@ -78,7 +78,7 @@ Qing Li, He Huang, **Ruoyu Li**, Jianhui Lv, Zhenhui Yuan, Lianbo Ma, Yi Han, an
 
 ## Papers under revision/review
 
-* IoT synthetic traffic generation, under revision by TMC (first author)
-* Defense against fingerprinting, submitted to CCS '24 (co-author)
-* Regular expression enhancement, submitted to CCS '24 (co-author)
+* Interpretation for black-box models, submitted to NeurIPS '24 (co-first author)
+* Defense against fingerprinting, submitted to NDSS '25 (co-author)
+* Regular expression enhancement, submitted to NSDI '25 (co-author)
 * BGP anomaly detection, submitted to TDSC (co-author)
