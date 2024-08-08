@@ -19,6 +19,10 @@ author_profile: true
 **Ruoyu Li**, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, and Yong Jiang<br>
 *In Proceedings of the 27th European Symposium on Research in Computer Security (ESORICS '22, acceptance rate: 18.5%)*
 
+* Proteus: A Difficulty-aware Deep Learning Framework for Real-time Malicious Traffic Detection (To appear)
+Chupeng Cui, Qing Li, Guorui Xie, **Ruoyu Li**, Dan zhao, Zhenhui yuan, and Yong Jiang<br>
+*In Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP '24)*
+
 * [Make Your Home Safe: Time-aware Unsupervised User Behavior Anomaly Detection in Smart Homes via Loss-guided Mask](https://arxiv.org/abs/2406.10928)<br>
 Jingyu Xiao, Zhiyao Xu, Qingsong Zou, Qing Li, Dan Zhao, Dong Fang, **Ruoyu Li**, Wenxin Tang, Kang Li, Xudong Zuo, Penghui Hu, Yong Jiang, Zixuan Weng, and Michael R.Lyv<br>
 *In Proceedings of the 30th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '24)*
