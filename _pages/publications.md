@@ -19,7 +19,7 @@ author_profile: true
 **Ruoyu Li**, Qing Li, Yucheng Huang, Wenbin Zhang, Peican Zhu, and Yong Jiang<br>
 *In Proceedings of the 27th European Symposium on Research in Computer Security (ESORICS '22, acceptance rate: 18.5%)*
 
-* Proteus: A Difficulty-aware Deep Learning Framework for Real-time Malicious Traffic Detection (To appear)
+* Proteus: A Difficulty-aware Deep Learning Framework for Real-time Malicious Traffic Detection (To appear)<br>
 Chupeng Cui, Qing Li, Guorui Xie, **Ruoyu Li**, Dan zhao, Zhenhui yuan, and Yong Jiang<br>
 *In Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP '24)*
 
