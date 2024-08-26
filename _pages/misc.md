@@ -20,6 +20,7 @@ redirect_from:
 
 ### Reviewer
 
+* International Conference on Learning Representations (ICLR '25)
 * Annual Conference on Neural Information Processing Systems (NeurIPS '24)
 * IEEE Transactions on Information Forensics and Security (TIFS)
 * IEEE Transactions on Dependable and Secure Computing (TDSC)
